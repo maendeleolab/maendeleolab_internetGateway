@@ -101,10 +101,8 @@ This script will become your single source of truth for your internet gateways.
 
 **9**  - Internet gateway resources do not cost you anything, but in case you decide to delete them. You can run the script **delete_resources.py**
 	
-**Note:** The script deletes all the internet gateway resources that do not have any dependencies. 
+**Note:** The script deletes the internet gateway name defined in delete_resources.py. 
 	
-This means, if internet gateway is not associated to a VPC route table, the subnets will be deleted. 
-
 ```
 ./delete_resources.py or python3 delete_resources.py
 ```
