@@ -1,4 +1,4 @@
-# maendeleolab_subnet
+# maendeleolab_internetGateway
 ![GitHub commit activity](https://img.shields.io/github/last-commit/maendeleolab/maendeleolab_internetGateway)
 
 <img src="/images/banner.png" width=400>
@@ -87,7 +87,7 @@ maendeleolab_lib.py
 
 **Notes: Your VPC must be tagged with the name "NetworkDev1" for the script to work, otherwise replace NetworkDev1 with your VPC name.**
 
-The script will create an internet gateway in us-east-1 and us-east-2 regions.
+The script will create an internet gateway in us-east-1 and us-west-2 regions.
 
 This script will become your single source of truth for your internet gateways. 
 
