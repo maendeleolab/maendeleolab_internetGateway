@@ -49,7 +49,7 @@ export ENV_FPATH="/home/ubuntu"
 
 ## [Walk-through](#Walk-through)
 
-Watch [tutorial](Coming Soon) on youtube for step by step instructions.
+Watch [tutorial](https://youtu.be/ZmkXayioCcY) on youtube for step by step instructions.
 
 **1**  - Make sure to comply with the prerequisites mentioned above.
 
